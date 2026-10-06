@@ -1,0 +1,1513 @@
+{
+ "niveis_antigos": {
+  "limites": [
+   15,
+   45,
+   91,
+   153,
+   190,
+   253
+  ],
+  "casos": [
+   {
+    "pontos": 0,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.0
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 1,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.011111111111111112
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 7.9,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.08777777777777779
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 8,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.08888888888888889
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 8.1,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.08999999999999998
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 15,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.16666666666666666
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 15.1,
+    "nivel": "Compreender",
+    "nivel_e_progresso": [
+     "Compreender",
+     0.16722222222222224
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 26,
+    "nivel": "Compreender",
+    "nivel_e_progresso": [
+     "Compreender",
+     0.22777777777777777
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 45,
+    "nivel": "Compreender",
+    "nivel_e_progresso": [
+     "Compreender",
+     0.3333333333333333
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 54,
+    "nivel": "Aplicar",
+    "nivel_e_progresso": [
+     "Aplicar",
+     0.36594202898550726
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 54.1,
+    "nivel": "Aplicar",
+    "nivel_e_progresso": [
+     "Aplicar",
+     0.36630434782608695
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 91,
+    "nivel": "Aplicar",
+    "nivel_e_progresso": [
+     "Aplicar",
+     0.5
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 92,
+    "nivel": "Analisar",
+    "nivel_e_progresso": [
+     "Analisar",
+     0.5026881720430108
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 92.1,
+    "nivel": "Analisar",
+    "nivel_e_progresso": [
+     "Analisar",
+     0.5029569892473118
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 140,
+    "nivel": "Analisar",
+    "nivel_e_progresso": [
+     "Analisar",
+     0.6317204301075269
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 190,
+    "nivel": "Avaliar",
+    "nivel_e_progresso": [
+     "Avaliar",
+     0.8333333333333334
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 200,
+    "nivel": "Criar",
+    "nivel_e_progresso": [
+     "Criar",
+     0.8597883597883599
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 253,
+    "nivel": "Criar",
+    "nivel_e_progresso": [
+     "Criar",
+     1.0
+    ],
+    "pontos_para_analisar": 92
+   },
+   {
+    "pontos": 300,
+    "nivel": "Criar",
+    "nivel_e_progresso": [
+     "Mestre",
+     1.0
+    ],
+    "pontos_para_analisar": 92
+   }
+  ]
+ },
+ "niveis_novos": {
+  "limites": [
+   8,
+   26,
+   54,
+   92,
+   140,
+   200
+  ],
+  "casos": [
+   {
+    "pontos": 0,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.0
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 1,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.020833333333333332
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 7.9,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.16458333333333333
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 8,
+    "nivel": "Lembrar",
+    "nivel_e_progresso": [
+     "Lembrar",
+     0.16666666666666666
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 8.1,
+    "nivel": "Compreender",
+    "nivel_e_progresso": [
+     "Compreender",
+     0.1675925925925926
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 15,
+    "nivel": "Compreender",
+    "nivel_e_progresso": [
+     "Compreender",
+     0.23148148148148148
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 15.1,
+    "nivel": "Compreender",
+    "nivel_e_progresso": [
+     "Compreender",
+     0.2324074074074074
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 26,
+    "nivel": "Compreender",
+    "nivel_e_progresso": [
+     "Compreender",
+     0.3333333333333333
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 45,
+    "nivel": "Aplicar",
+    "nivel_e_progresso": [
+     "Aplicar",
+     0.44642857142857145
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 54,
+    "nivel": "Aplicar",
+    "nivel_e_progresso": [
+     "Aplicar",
+     0.5
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 54.1,
+    "nivel": "Analisar",
+    "nivel_e_progresso": [
+     "Analisar",
+     0.500438596491228
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 91,
+    "nivel": "Analisar",
+    "nivel_e_progresso": [
+     "Analisar",
+     0.662280701754386
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 92,
+    "nivel": "Analisar",
+    "nivel_e_progresso": [
+     "Analisar",
+     0.6666666666666666
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 92.1,
+    "nivel": "Avaliar",
+    "nivel_e_progresso": [
+     "Avaliar",
+     0.6670138888888889
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 140,
+    "nivel": "Avaliar",
+    "nivel_e_progresso": [
+     "Avaliar",
+     0.8333333333333334
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 190,
+    "nivel": "Criar",
+    "nivel_e_progresso": [
+     "Criar",
+     0.9722222222222222
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 200,
+    "nivel": "Criar",
+    "nivel_e_progresso": [
+     "Criar",
+     1.0
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 253,
+    "nivel": "Criar",
+    "nivel_e_progresso": [
+     "Mestre",
+     1.0
+    ],
+    "pontos_para_analisar": 55
+   },
+   {
+    "pontos": 300,
+    "nivel": "Criar",
+    "nivel_e_progresso": [
+     "Mestre",
+     1.0
+    ],
+    "pontos_para_analisar": 55
+   }
+  ]
+ },
+ "formatar_pontos": [
+  {
+   "in": 0,
+   "out": "0"
+  },
+  {
+   "in": 3,
+   "out": "3"
+  },
+  {
+   "in": 3.5,
+   "out": "3,5"
+  },
+  {
+   "in": 3.04,
+   "out": "3"
+  },
+  {
+   "in": 12.0,
+   "out": "12"
+  },
+  {
+   "in": 0.25,
+   "out": "0,2"
+  },
+  {
+   "in": null,
+   "out": "0"
+  },
+  {
+   "in": "2.5",
+   "out": "2,5"
+  }
+ ],
+ "sus": {
+  "ids": [
+   "sus1",
+   "sus2",
+   "sus3",
+   "sus4",
+   "sus5",
+   "sus6",
+   "sus7",
+   "sus8",
+   "sus9",
+   "sus10"
+  ],
+  "inversos": [
+   "sus2",
+   "sus4",
+   "sus6",
+   "sus8",
+   "sus10"
+  ],
+  "casos": [
+   {
+    "nome": "tudo_5",
+    "respostas": {
+     "sus1": 5,
+     "sus2": 5,
+     "sus3": 5,
+     "sus4": 5,
+     "sus5": 5,
+     "sus6": 5,
+     "sus7": 5,
+     "sus8": 5,
+     "sus9": 5,
+     "sus10": 5
+    },
+    "sus": 50.0
+   },
+   {
+    "nome": "tudo_1",
+    "respostas": {
+     "sus1": 1,
+     "sus2": 1,
+     "sus3": 1,
+     "sus4": 1,
+     "sus5": 1,
+     "sus6": 1,
+     "sus7": 1,
+     "sus8": 1,
+     "sus9": 1,
+     "sus10": 1
+    },
+    "sus": 50.0
+   },
+   {
+    "nome": "tudo_3",
+    "respostas": {
+     "sus1": 3,
+     "sus2": 3,
+     "sus3": 3,
+     "sus4": 3,
+     "sus5": 3,
+     "sus6": 3,
+     "sus7": 3,
+     "sus8": 3,
+     "sus9": 3,
+     "sus10": 3
+    },
+    "sus": 50.0
+   },
+   {
+    "nome": "ideal",
+    "respostas": {
+     "sus1": 5,
+     "sus2": 1,
+     "sus3": 5,
+     "sus4": 1,
+     "sus5": 5,
+     "sus6": 1,
+     "sus7": 5,
+     "sus8": 1,
+     "sus9": 5,
+     "sus10": 1
+    },
+    "sus": 100.0
+   },
+   {
+    "nome": "pior",
+    "respostas": {
+     "sus1": 1,
+     "sus2": 5,
+     "sus3": 1,
+     "sus4": 5,
+     "sus5": 1,
+     "sus6": 5,
+     "sus7": 1,
+     "sus8": 5,
+     "sus9": 1,
+     "sus10": 5
+    },
+    "sus": 0.0
+   },
+   {
+    "nome": "falta_um",
+    "respostas": {
+     "sus1": 3,
+     "sus2": 3,
+     "sus3": 3,
+     "sus4": 3,
+     "sus5": 3,
+     "sus6": 3,
+     "sus7": 3,
+     "sus8": 3,
+     "sus9": 3
+    },
+    "sus": null
+   }
+  ]
+ },
+ "nps": [
+  {
+   "valores": [
+    10,
+    9,
+    8,
+    6,
+    0
+   ],
+   "nps": 0
+  },
+  {
+   "valores": [
+    9,
+    9,
+    9
+   ],
+   "nps": 100
+  },
+  {
+   "valores": [
+    0,
+    1,
+    2
+   ],
+   "nps": -100
+  },
+  {
+   "valores": [
+    7,
+    8
+   ],
+   "nps": 0
+  },
+  {
+   "valores": [],
+   "nps": null
+  },
+  {
+   "valores": [
+    null,
+    10
+   ],
+   "nps": 100
+  }
+ ],
+ "categoria_nps": [
+  {
+   "valor": 0,
+   "categoria": "detrator"
+  },
+  {
+   "valor": 1,
+   "categoria": "detrator"
+  },
+  {
+   "valor": 2,
+   "categoria": "detrator"
+  },
+  {
+   "valor": 3,
+   "categoria": "detrator"
+  },
+  {
+   "valor": 4,
+   "categoria": "detrator"
+  },
+  {
+   "valor": 5,
+   "categoria": "detrator"
+  },
+  {
+   "valor": 6,
+   "categoria": "detrator"
+  },
+  {
+   "valor": 7,
+   "categoria": "passivo"
+  },
+  {
+   "valor": 8,
+   "categoria": "passivo"
+  },
+  {
+   "valor": 9,
+   "categoria": "promotor"
+  },
+  {
+   "valor": 10,
+   "categoria": "promotor"
+  }
+ ],
+ "raiz": [
+  {
+   "in": "personagens",
+   "out": "personagem"
+  },
+  {
+   "in": "personagem",
+   "out": "personagem"
+  },
+  {
+   "in": "temas",
+   "out": "tema"
+  },
+  {
+   "in": "tema",
+   "out": "tema"
+  },
+  {
+   "in": "ciume",
+   "out": "ciume"
+  },
+  {
+   "in": "casas",
+   "out": "casa"
+  },
+  {
+   "in": "papeis",
+   "out": "papei"
+  },
+  {
+   "in": "mas",
+   "out": "mas"
+  },
+  {
+   "in": "dos",
+   "out": "dos"
+  },
+  {
+   "in": "olhos",
+   "out": "olho"
+  },
+  {
+   "in": "luzes",
+   "out": "luz"
+  },
+  {
+   "in": "capitulos",
+   "out": "capitulo"
+  },
+  {
+   "in": "simbolos",
+   "out": "simbolo"
+  },
+  {
+   "in": "mães",
+   "out": "mãe"
+  }
+ ],
+ "tokens": [
+  {
+   "in": "Capitu é a figura central.",
+   "out": [
+    "capitu",
+    "e",
+    "a",
+    "figura",
+    "central"
+   ]
+  },
+  {
+   "in": "Olá, Mundo! Ação & reação.",
+   "out": [
+    "ola",
+    "mundo",
+    "acao",
+    "reacao"
+   ]
+  },
+  {
+   "in": "  ",
+   "out": []
+  },
+  {
+   "in": "O ciúme de Bentinho",
+   "out": [
+    "o",
+    "ciume",
+    "de",
+    "bentinho"
+   ]
+  }
+ ],
+ "linguistica": {
+  "textos": [
+   "Bentinho desconfia de Capitu porque o ciúme cresce. Mas ele nunca confirma nada.",
+   "Acho que o narrador duvida, pois conta tudo muito tempo depois. Por isso nunca sabemos.",
+   "Portanto o leitor deve desconfiar do narrador, embora ele pareça sincero. Por exemplo, o olhar de Capitu."
+  ],
+  "palavras_por_texto": [
+   13,
+   15,
+   17
+  ],
+  "marcadores": {
+   "causa": 2,
+   "contraste": 2,
+   "conclusao": 2,
+   "exemplo": 1,
+   "posicao": 1
+  },
+  "mattr_25": 0.9180952380952385,
+  "palavras_chave": [
+   [
+    "capitu",
+    2,
+    "capitu"
+   ],
+   [
+    "narrador",
+    2,
+    "narrador"
+   ]
+  ],
+  "frases": [
+   2,
+   2,
+   2
+  ]
+ },
+ "cobertura": {
+  "ficha": {
+   "personagens": [
+    {
+     "nome": "Capitu",
+     "papel": "x"
+    },
+    {
+     "nome": "Bentinho (Bento Santiago)",
+     "papel": "y"
+    },
+    {
+     "nome": "José Dias",
+     "papel": "z"
+    }
+   ],
+   "temas": [
+    "ciúme",
+    "a memória"
+   ],
+   "simbolos": [
+    {
+     "simbolo": "olhos de ressaca",
+     "significado": "s"
+    }
+   ]
+  },
+  "textos": [
+   "Bentinho desconfia de Capitu porque o ciúme cresce. Mas ele nunca confirma nada.",
+   "Acho que o narrador duvida, pois conta tudo muito tempo depois. Por isso nunca sabemos.",
+   "Portanto o leitor deve desconfiar do narrador, embora ele pareça sincero. Por exemplo, o olhar de Capitu."
+  ],
+  "resultado": {
+   "Personagens": {
+    "mencionados": [
+     "Capitu",
+     "Bentinho"
+    ],
+    "por_tocar": [
+     "José Dias"
+    ]
+   },
+   "Temas": {
+    "mencionados": [
+     "ciúme"
+    ],
+    "por_tocar": [
+     "a memória"
+    ]
+   },
+   "Símbolos": {
+    "mencionados": [],
+    "por_tocar": [
+     "olhos de ressaca"
+    ]
+   }
+  }
+ },
+ "tendencia": [
+  {
+   "fracoes": [
+    0.5,
+    0.5
+   ],
+   "resultado": {
+    "estado": "poucos",
+    "n": 2,
+    "faltam": 3
+   }
+  },
+  {
+   "fracoes": [
+    0.2,
+    0.3,
+    0.4,
+    0.6,
+    0.8,
+    0.9
+   ],
+   "resultado": {
+    "estado": "subir",
+    "n": 6,
+    "variacao": 0.742857,
+    "antes": 0.3,
+    "depois": 0.766667
+   }
+  },
+  {
+   "fracoes": [
+    0.9,
+    0.8,
+    0.6,
+    0.4,
+    0.3,
+    0.2
+   ],
+   "resultado": {
+    "estado": "descer",
+    "n": 6,
+    "variacao": -0.742857,
+    "antes": 0.766667,
+    "depois": 0.3
+   }
+  },
+  {
+   "fracoes": [
+    0.5,
+    0.55,
+    0.5,
+    0.52,
+    0.5,
+    0.5
+   ],
+   "resultado": {
+    "estado": "estavel",
+    "n": 6,
+    "variacao": -0.018571,
+    "antes": 0.516667,
+    "depois": 0.506667
+   }
+  },
+  {
+   "fracoes": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    0.5
+   ],
+   "resultado": {
+    "estado": "estavel",
+    "n": 5,
+    "variacao": 0.0,
+    "antes": 0.5,
+    "depois": 0.5
+   }
+  },
+  {
+   "fracoes": [],
+   "resultado": {
+    "estado": "poucos",
+    "n": 0,
+    "faltam": 5
+   }
+  }
+ ],
+ "normalizar_nivel": [
+  {
+   "in": "compreender",
+   "out": "Compreender"
+  },
+  {
+   "in": " Compreender ",
+   "out": "Compreender"
+  },
+  {
+   "in": "ANALISAR",
+   "out": "Analisar"
+  },
+  {
+   "in": "xpto",
+   "out": null
+  },
+  {
+   "in": "",
+   "out": null
+  },
+  {
+   "in": null,
+   "out": null
+  },
+  {
+   "in": "Avaliar",
+   "out": "Avaliar"
+  }
+ ],
+ "licencas": [
+  {
+   "in": "Public domain",
+   "permitida": true
+  },
+  {
+   "in": "PD-old-70",
+   "permitida": true
+  },
+  {
+   "in": "CC0",
+   "permitida": true
+  },
+  {
+   "in": "CC BY 4.0",
+   "permitida": true
+  },
+  {
+   "in": "CC BY-SA 3.0",
+   "permitida": true
+  },
+  {
+   "in": "cc-by-sa-2.5",
+   "permitida": true
+  },
+  {
+   "in": "CC BY-NC 4.0",
+   "permitida": false
+  },
+  {
+   "in": "CC BY-NC-SA 3.0",
+   "permitida": false
+  },
+  {
+   "in": "CC BY-ND 2.0",
+   "permitida": false
+  },
+  {
+   "in": "Fair use",
+   "permitida": false
+  },
+  {
+   "in": "All rights reserved",
+   "permitida": false
+  },
+  {
+   "in": "GFDL",
+   "permitida": false
+  },
+  {
+   "in": "",
+   "permitida": false
+  },
+  {
+   "in": null,
+   "permitida": false
+  }
+ ],
+ "codigo_turma": [
+  {
+   "in": " k7m2-qx ",
+   "out": "K7M2QX"
+  },
+  {
+   "in": "abc",
+   "out": "ABC"
+  },
+  {
+   "in": "K7M2QX",
+   "out": "K7M2QX"
+  },
+  {
+   "in": null,
+   "out": ""
+  },
+  {
+   "in": "k7m 2qx!",
+   "out": "K7M2QX"
+  }
+ ],
+ "chave_reescrita": [
+  {
+   "in": "Acho que sim.",
+   "out": "acho que sim"
+  },
+  {
+   "in": "  acho QUE sim ",
+   "out": "acho que sim"
+  },
+  {
+   "in": "Olá, mundo!!",
+   "out": "ola mundo"
+  },
+  {
+   "in": "",
+   "out": ""
+  }
+ ],
+ "link_valido": [
+  {
+   "in": "https://exemplo.pt/x",
+   "out": "https://exemplo.pt/x"
+  },
+  {
+   "in": "http://a.b",
+   "out": "http://a.b"
+  },
+  {
+   "in": "ftp://a.b",
+   "out": ""
+  },
+  {
+   "in": "javascript:alert(1)",
+   "out": ""
+  },
+  {
+   "in": "exemplo.pt",
+   "out": ""
+  },
+  {
+   "in": "",
+   "out": ""
+  },
+  {
+   "in": null,
+   "out": ""
+  }
+ ],
+ "dominio_publico": [
+  {
+   "ano_morte": 0,
+   "hoje": "2026-10-04",
+   "out": [
+    null,
+    null
+   ]
+  },
+  {
+   "ano_morte": 1908,
+   "hoje": "2026-10-04",
+   "out": [
+    true,
+    1979
+   ]
+  },
+  {
+   "ano_morte": 1955,
+   "hoje": "2026-10-04",
+   "out": [
+    true,
+    2026
+   ]
+  },
+  {
+   "ano_morte": 1956,
+   "hoje": "2026-10-04",
+   "out": [
+    false,
+    2027
+   ]
+  },
+  {
+   "ano_morte": 1957,
+   "hoje": "2026-10-04",
+   "out": [
+    false,
+    2028
+   ]
+  },
+  {
+   "ano_morte": 2000,
+   "hoje": "2026-10-04",
+   "out": [
+    false,
+    2071
+   ]
+  }
+ ],
+ "normalizar_texto": [
+  {
+   "in": "Dom Casmurro",
+   "out": "dom casmurro"
+  },
+  {
+   "in": "Sebastião",
+   "out": "sebastiao"
+  },
+  {
+   "in": "Eça de Queirós",
+   "out": "eca de queiros"
+  },
+  {
+   "in": "  ÓPERA  ",
+   "out": "opera"
+  }
+ ],
+ "corrigir": [
+  {
+   "pergunta": {
+    "formato": "multipla_escolha",
+    "enunciado": "e",
+    "opcoes": [
+     "a",
+     "b",
+     "c",
+     "d"
+    ],
+    "correta": 2
+   },
+   "resposta": 2,
+   "fracao": 1.0,
+   "feedback": "Certo!"
+  },
+  {
+   "pergunta": {
+    "formato": "multipla_escolha",
+    "enunciado": "e",
+    "opcoes": [
+     "a",
+     "b",
+     "c",
+     "d"
+    ],
+    "correta": 2
+   },
+   "resposta": 0,
+   "fracao": 0.0,
+   "feedback": "A resposta certa era: c"
+  },
+  {
+   "pergunta": {
+    "formato": "verdadeiro_falso",
+    "enunciado": "e",
+    "afirmacoes": [
+     {
+      "texto": "t1",
+      "verdadeira": true
+     },
+     {
+      "texto": "t2",
+      "verdadeira": false
+     },
+     {
+      "texto": "t3",
+      "verdadeira": true
+     }
+    ]
+   },
+   "resposta": [
+    true,
+    false,
+    true
+   ],
+   "fracao": 1.0,
+   "feedback": "Acertou 3 de 3.\n\n✔ «t1» é verdadeira.\n\n✔ «t2» é falsa.\n\n✔ «t3» é verdadeira."
+  },
+  {
+   "pergunta": {
+    "formato": "verdadeiro_falso",
+    "enunciado": "e",
+    "afirmacoes": [
+     {
+      "texto": "t1",
+      "verdadeira": true
+     },
+     {
+      "texto": "t2",
+      "verdadeira": false
+     },
+     {
+      "texto": "t3",
+      "verdadeira": true
+     }
+    ]
+   },
+   "resposta": [
+    false,
+    false,
+    true
+   ],
+   "fracao": 0.6666666666666666,
+   "feedback": "Acertou 2 de 3.\n\n✘ «t1» é verdadeira.\n\n✔ «t2» é falsa.\n\n✔ «t3» é verdadeira."
+  },
+  {
+   "pergunta": {
+    "formato": "completar",
+    "enunciado": "e",
+    "lacunas": [
+     {
+      "frase": "A ____ é",
+      "banco": [
+       "x",
+       "y"
+      ],
+      "resposta": "x"
+     },
+     {
+      "frase": "O ____",
+      "banco": [
+       "p",
+       "q"
+      ],
+      "resposta": "q"
+     }
+    ]
+   },
+   "resposta": [
+    "x",
+    "p"
+   ],
+   "fracao": 0.5,
+   "feedback": "Acertou 1 de 2.\n\n✔ A **x** é\n\n✘ O **q**"
+  },
+  {
+   "pergunta": {
+    "formato": "associar",
+    "enunciado": "e",
+    "pares": [
+     [
+      "A",
+      "1"
+     ],
+     [
+      "B",
+      "2"
+     ],
+     [
+      "C",
+      "3"
+     ]
+    ],
+    "direitas": [
+     "1",
+     "2",
+     "3"
+    ]
+   },
+   "resposta": [
+    "1",
+    "3",
+    "2"
+   ],
+   "fracao": 0.3333333333333333,
+   "feedback": "Acertou 1 de 3.\n\n✔ **A** → 1\n\n✘ **B** → 2\n\n✘ **C** → 3"
+  },
+  {
+   "pergunta": {
+    "formato": "ordenar",
+    "enunciado": "e",
+    "itens": [
+     "i1",
+     "i2",
+     "i3",
+     "i4"
+    ],
+    "mostrados": [
+     "i3",
+     "i1",
+     "i4",
+     "i2"
+    ]
+   },
+   "resposta": [
+    3,
+    1,
+    4,
+    2
+   ],
+   "fracao": 1.0,
+   "feedback": "Acertou a posição de 4 de 4.\n\nA ordem certa:\n\n1. i1\n2. i2\n3. i3\n4. i4"
+  },
+  {
+   "pergunta": {
+    "formato": "ordenar",
+    "enunciado": "e",
+    "itens": [
+     "i1",
+     "i2",
+     "i3",
+     "i4"
+    ],
+    "mostrados": [
+     "i3",
+     "i1",
+     "i4",
+     "i2"
+    ]
+   },
+   "resposta": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "fracao": 0.0,
+   "feedback": "Acertou a posição de 0 de 4.\n\nA ordem certa:\n\n1. i1\n2. i2\n3. i3\n4. i4"
+  }
+ ],
+ "pontos_obtidos": [
+  {
+   "pontos": 6,
+   "fracao": 0.67,
+   "out": 4.0
+  },
+  {
+   "pontos": 6,
+   "fracao": 0.666,
+   "out": 4.0
+  },
+  {
+   "pontos": 12,
+   "fracao": 0.5,
+   "out": 6.0
+  },
+  {
+   "pontos": 3,
+   "fracao": 1,
+   "out": 3.0
+  },
+  {
+   "pontos": 3,
+   "fracao": -1,
+   "out": 0.0
+  },
+  {
+   "pontos": 3,
+   "fracao": 2,
+   "out": 3.0
+  },
+  {
+   "pontos": 1,
+   "fracao": 0.5,
+   "out": 0.5
+  },
+  {
+   "pontos": 8,
+   "fracao": 0.0,
+   "out": 0.0
+  }
+ ],
+ "resposta_completa": [
+  {
+   "pergunta": {
+    "formato": "multipla_escolha",
+    "enunciado": "e",
+    "opcoes": [
+     "a",
+     "b",
+     "c",
+     "d"
+    ],
+    "correta": 2
+   },
+   "resposta": null,
+   "out": false
+  },
+  {
+   "pergunta": {
+    "formato": "multipla_escolha",
+    "enunciado": "e",
+    "opcoes": [
+     "a",
+     "b",
+     "c",
+     "d"
+    ],
+    "correta": 2
+   },
+   "resposta": 0,
+   "out": true
+  },
+  {
+   "pergunta": {
+    "formato": "verdadeiro_falso",
+    "enunciado": "e",
+    "afirmacoes": [
+     {
+      "texto": "t1",
+      "verdadeira": true
+     },
+     {
+      "texto": "t2",
+      "verdadeira": false
+     },
+     {
+      "texto": "t3",
+      "verdadeira": true
+     }
+    ]
+   },
+   "resposta": [
+    true,
+    null,
+    true
+   ],
+   "out": false
+  },
+  {
+   "pergunta": {
+    "formato": "verdadeiro_falso",
+    "enunciado": "e",
+    "afirmacoes": [
+     {
+      "texto": "t1",
+      "verdadeira": true
+     },
+     {
+      "texto": "t2",
+      "verdadeira": false
+     },
+     {
+      "texto": "t3",
+      "verdadeira": true
+     }
+    ]
+   },
+   "resposta": [
+    true,
+    false,
+    true
+   ],
+   "out": true
+  },
+  {
+   "pergunta": {
+    "formato": "resposta_aberta",
+    "enunciado": "Porque duvida o narrador?"
+   },
+   "resposta": "duas palavras",
+   "out": false
+  },
+  {
+   "pergunta": {
+    "formato": "resposta_aberta",
+    "enunciado": "Porque duvida o narrador?"
+   },
+   "resposta": "Porque duvida o narrador?",
+   "out": false
+  },
+  {
+   "pergunta": {
+    "formato": "resposta_aberta",
+    "enunciado": "Pergunta?"
+   },
+   "resposta": "uma resposta com mais palavras",
+   "out": true
+  }
+ ],
+ "normalizar_ficha": {
+  "in_resumo_len": 2000,
+  "out": {
+   "genero": "romance",
+   "ano": 1899,
+   "ano_morte_autor": 0,
+   "resumo": "<1200 caracteres: o resumo é cortado ao limite>",
+   "narrador": "",
+   "estrutura": "",
+   "acontecimentos": [],
+   "estilo": "",
+   "contexto": {
+    "epoca": "",
+    "local": ""
+   },
+   "personagens": [
+    {
+     "nome": "A",
+     "papel": "p"
+    },
+    {
+     "nome": "B",
+     "papel": ""
+    }
+   ],
+   "temas": [
+    "t1",
+    "t1",
+    "t2",
+    "x0",
+    "x1",
+    "x2"
+   ],
+   "simbolos": [],
+   "recursos": [],
+   "dilemas": [],
+   "leituras_criticas": []
+  },
+  "limites": {
+   "acontecimentos": 8,
+   "personagens": 8,
+   "temas": 6,
+   "simbolos": 5,
+   "recursos": 6,
+   "dilemas": 4,
+   "leituras_criticas": 4
+  }
+ }
+}

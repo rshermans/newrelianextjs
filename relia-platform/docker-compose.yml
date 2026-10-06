@@ -1,0 +1,98 @@
+version: "3.9"
+
+# =============================================================
+# RELIA Platform — Docker Compose
+# Orquestra todos os serviços do ecossistema RELIA.
+#
+# Uso:
+#   docker compose up -d --build     (iniciar tudo)
+#   docker compose down              (parar tudo)
+#   docker compose logs -f           (ver logs)
+# =============================================================
+
+services:
+  # ─────────────────────────────────────────────
+  # Backend FastAPI + 3 Skills Agênticas
+  # ─────────────────────────────────────────────
+  fastapi:
+    build:
+      context: ./services/fastapi
+      dockerfile: Dockerfile
+    container_name: relia-fastapi
+    ports:
+      - "8000:8000"
+    env_file: .env
+    volumes:
+      - relia-data:/app/data
+      - ./services/fastapi/app:/app/app:ro
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 15s
+    restart: unless-stopped
+
+  # ─────────────────────────────────────────────
+  # Servidor MCP de Corpus Literário
+  # ─────────────────────────────────────────────
+  mcp:
+    build:
+      context: ./services/mcp
+      dockerfile: Dockerfile
+    container_name: relia-mcp
+    ports:
+      - "8001:8001"
+    env_file: .env
+    volumes:
+      - relia-data:/app/data
+    depends_on:
+      fastapi:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # ─────────────────────────────────────────────
+  # App do Aluno (Next.js)
+  # ─────────────────────────────────────────────
+  aluno:
+    build:
+      context: .
+      dockerfile: apps/aluno/Dockerfile
+      target: runner
+    container_name: relia-aluno
+    ports:
+      - "3000:3000"
+    env_file: .env
+    environment:
+      - FASTAPI_URL=http://fastapi:8000
+      - MCP_URL=http://mcp:8001
+      - PORT=3000
+    depends_on:
+      fastapi:
+        condition: service_healthy
+    restart: unless-stopped
+
+  # ─────────────────────────────────────────────
+  # App do Professor (Next.js)
+  # ─────────────────────────────────────────────
+  professor:
+    build:
+      context: .
+      dockerfile: apps/professor/Dockerfile
+      target: runner
+    container_name: relia-professor
+    ports:
+      - "3001:3001"
+    env_file: .env
+    environment:
+      - FASTAPI_URL=http://fastapi:8000
+      - MCP_URL=http://mcp:8001
+      - PORT=3001
+    depends_on:
+      fastapi:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  relia-data:
+    driver: local

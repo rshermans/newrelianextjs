@@ -1,0 +1,3 @@
+# Dados locais (desenvolvimento)
+# Este diretório é montado como volume nos containers Docker.
+# Não versionado (exceto este ficheiro).

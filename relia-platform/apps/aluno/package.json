@@ -1,0 +1,49 @@
+{
+  "name": "@relia/aluno",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3000",
+    "build": "next build",
+    "start": "next start --port 3000",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "e2e": "playwright test",
+    "clean": "rm -rf .next .turbo"
+  },
+  "dependencies": {
+    "@relia/config": "workspace:*",
+    "@relia/db": "workspace:*",
+    "@relia/domain": "workspace:*",
+    "@relia/ui": "workspace:*",
+    "@relia/validation": "workspace:*",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next-intl": "^3.26.0",
+    "next-auth": "5.0.0-beta.25",
+    "bcryptjs": "^2.4.3",
+    "zod": "^3.23.8",
+    "sonner": "^1.7.1",
+    "lucide-react": "^0.460.0",
+    "recharts": "^2.15.0",
+    "react-hook-form": "^7.54.0",
+    "@hookform/resolvers": "^3.9.1"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.6.3",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "vitest": "^2.1.8",
+    "@playwright/test": "^1.49.0",
+    "eslint": "^9.16.0",
+    "eslint-config-next": "^15.1.0",
+    "postcss": "^8.4.49"
+  }
+}

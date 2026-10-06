@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "relia-corpus": {
+      "command": "python",
+      "args": ["-m", "corpus_server.server"],
+      "cwd": "./services/mcp/corpus_server",
+      "env": {}
+    }
+  }
+}
