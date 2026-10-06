@@ -1,0 +1,50 @@
+# IDEs e Editores
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de ambiente e sensíveis
+*.env
+.env
+.env*.local
+!.env.example
+!*/.env.example
+!backend/.env.example
+.streamlit/secrets.toml
+
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.sqlite3
+*.db
+data/*.db
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+venv/
+env/
+relia-env/
+.venv/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+docker-data/
+
+# Documentos / Revisões internas
+.docsrevisao/
+.documentacao.phd
+.ipynb_checkpoints/
